@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "chart.js": "^2.8.0",
-    "chartkick": "^3.1.1",
+    "chartkick": "^3.2.0",
     "firebase": "^6.3.4",
     "vue": "^2.5.11",
     "vue-chart": "^2.0.0",
